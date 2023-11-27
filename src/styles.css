@@ -1,0 +1,15 @@
+/* Style.css */
+body {
+    font-family: sans-serif;
+    background-color: #caaf858f;
+}
+
+header {
+    background-color: #b98904bd;
+    padding: 20px;
+    color: rgb(241, 234, 247);
+}
+.img2{
+    padding-left: 380px;
+}
+
